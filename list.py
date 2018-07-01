@@ -1,21 +1,21 @@
 peopleList = ["Bob", "Mark", "Sarah", "Keith", "Nicole", "Renee", "Keith"]
 
-print peopleList
+print (peopleList)
 
 peopleList.append("Luigi")
 
-print peopleList
+print (peopleList)
 
 peopleList.remove("Keith")
 
-print peopleList
+print (peopleList)
 
 #change this to find the index of Nicole and insert after.
 peopleList.insert(4, "Elaine")
 
-print peopleList
+print (peopleList)
 
 peopleList[0] = "Robert"
 
-print peopleList
+print (peopleList)
 
