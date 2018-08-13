@@ -1,0 +1,4 @@
+[
+  "test/test_bits.py::test_set_bit", 
+  "test/test_bits.py::test_clear_bit"
+]
