@@ -1,5 +1,0 @@
-﻿Python class
-ssh to:
-  server 10.254.113.208
-  User: class PW: class
-
